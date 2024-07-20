@@ -8,7 +8,6 @@ storage
 .venv
 credentials.json
 token.json
-*.chainlit
 *.sql
 
 
